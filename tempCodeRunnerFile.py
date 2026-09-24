@@ -1,0 +1,1 @@
+print("\nCleaning done. Now run 02_visualization.py")
